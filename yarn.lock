@@ -1327,11 +1327,6 @@
   dependencies:
     "prr" "~1.0.1"
 
-"esbuild-darwin-arm64@0.13.15":
-  "integrity" "sha512-i1FZssTVxUqNlJ6cBTj5YQj4imWy3m49RZRnHhLpefFIh0To05ow9DTrXROTE1urGTQCloFUXTX8QfGJy1P8dQ=="
-  "resolved" "https://registry.npmjs.org/esbuild-darwin-arm64/-/esbuild-darwin-arm64-0.13.15.tgz"
-  "version" "0.13.15"
-
 "esbuild-plugin-browserslist@^0.1.0":
   "integrity" "sha512-dgpnJIwuYGUadM+VGT2XHB1wtsXp55Wh3e9IqrOUE21fR3qa8uJu68EXpJQ1dGc09NEE1Lu3nuOLUhX7QgRetg=="
   "resolved" "https://registry.npmjs.org/esbuild-plugin-browserslist/-/esbuild-plugin-browserslist-0.1.1.tgz"
@@ -1339,6 +1334,11 @@
   dependencies:
     "debug" "^4.3.2"
     "zod" "^3.7.1"
+
+"esbuild-windows-64@0.13.15":
+  "integrity" "sha512-9aMsPRGDWCd3bGjUIKG/ZOJPKsiztlxl/Q3C1XDswO6eNX/Jtwu4M+jb6YDH9hRSUflQWX0XKAfWzgy5Wk54JQ=="
+  "resolved" "https://registry.npmjs.org/esbuild-windows-64/-/esbuild-windows-64-0.13.15.tgz"
+  "version" "0.13.15"
 
 "esbuild@^0.11.15":
   "integrity" "sha512-iaiZZ9vUF5wJV8ob1tl+5aJTrwDczlvGP0JoMmnpC2B0ppiMCu8n8gmy5ZTGl5bcG081XBVn+U+jP+mPFm5T5Q=="
@@ -1684,11 +1684,6 @@
   "integrity" "sha1-FQStJSMVjKpA20onh8sBQRmU6k8="
   "resolved" "https://registry.npmjs.org/fs.realpath/-/fs.realpath-1.0.0.tgz"
   "version" "1.0.0"
-
-"fsevents@~2.3.2":
-  "integrity" "sha512-xiqMQR4xAeHTuB9uWm+fFRcIOgKBMiOBP+eXiyT7jsgVCq1bkVygt00oASowB7EdtpOHaaPgKt812P9ab+DDKA=="
-  "resolved" "https://registry.npmjs.org/fsevents/-/fsevents-2.3.2.tgz"
-  "version" "2.3.2"
 
 "function-bind@^1.1.1":
   "integrity" "sha512-yIovAzMX49sF8Yl58fSCWJ5svSLuaibPxXQJFLmBObTuCr0Mf1KiPopGM9NiFjiYBCbfaa2Fh6breQ6ANVTI0A=="
