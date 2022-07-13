@@ -3,8 +3,9 @@ module.exports = {
   connector: "@layer0/starter",
   backends: {
     origin: {
-      domainOrIp: "www.nike.com",
-      hostHeader: "www.nike.com",
+      domainOrIp: "www.bluepixel.design",
+      hostHeader: "www.bluepixel.design",
     },
   },
 };
+a
