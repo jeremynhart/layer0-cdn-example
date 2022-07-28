@@ -9,7 +9,7 @@ const handler: RouteHandler = async ({ cache, removeUpstreamResponseHeader, prox
 
   // convert absolute redirects to origin to relative
   // so that the user isn't transferred to the origin.
-  updateResponseHeader('location', /https:\/\/www\.nike\.com\//gi, '/')
+  updateResponseHeader('location', /https:\\.layer0\.co\\\//gi, '/')
 }
 
 export default handler
