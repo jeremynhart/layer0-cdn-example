@@ -3,7 +3,7 @@ module.exports = {
   connector: "@layer0/starter",
   backends: {
     origin: {
-      domainOrIp: "www.theappfactory.us",
+      domainOrIp: "ephemeral-salamander-e38ac4.netlify.app",
       hostHeader: "www.theappfactory.us"
     },
   },
