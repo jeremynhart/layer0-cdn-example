@@ -609,10 +609,10 @@
     unixify "^1.0.0"
     uuid "^8.3.2"
 
-"@layer0/devtools@4.5.1":
-  version "4.5.1"
-  resolved "https://registry.yarnpkg.com/@layer0/devtools/-/devtools-4.5.1.tgz#ad14e16a0c7021a0849fc957aa91f79fcff507fe"
-  integrity sha512-l7ycVmerLb/QDtWYMd/2Q9+wdyCAsdBf6XwbcsO2VmZf3dFxePq+7B0xeLBJXi/VHZojZNEL+ALwjaKEEhrVAQ==
+"@layer0/devtools@4.18.5":
+  version "4.18.5"
+  resolved "https://registry.yarnpkg.com/@layer0/devtools/-/devtools-4.18.5.tgz#9e996e6065742c556811a12828d1996d412db0c7"
+  integrity sha512-Hy8zXZPHvZCFP4ZLhL0BiSngWG0X4v5O1gYhW5UiJGf5+0MtqTV5s2lY4G5vxRgD/FGIB+AxPNf+FsZbJF7yHg==
   dependencies:
     clsx "^1.1.1"
     lodash "^4.17.20"
